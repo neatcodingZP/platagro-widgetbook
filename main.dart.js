@@ -31106,7 +31106,7 @@ Gp:function Gp(){this.d=!1
 this.c=this.a=null},
 avC:function avC(a){this.a=a},
 ba_(){var s="Access Recovery",r="Status",q=t.IQ
-return A.c([A.wS(!0,s,A.c([A.FY(new A.aIF(),s)],t.Jw)),A.FV(A.c([A.aHn("Producer",B.Oe),A.aHn("Buyer",B.Oc),A.aHn("Logistics",B.Od),A.aHn("Warehouse",B.Of)],q),!0,"Dashboard"),A.FV(A.c([A.FV(A.c([A.ya("Form","Personal KYC form",B.a5P),A.ya(r,"Personal KYC status",B.a4h)],q),!0,"KYC"),A.FV(A.c([A.ya(r,"KYB status",B.a5N),A.ya("Form","KYB form",B.a43),A.ya("role-selection","KYB role selection",B.a5H)],q),!0,"KYB"),A.FV(A.c([A.ya("Selection","Company selection",B.a47),A.ya(r,"Company status",B.a5I)],q),!0,"Company")],q),!0,"Onboarding")],q)},
+return A.c([A.wS(!0,s,A.c([A.FY(new A.aIF(),s)],t.Jw)),A.FV(A.c([A.aHn("Producer",B.Oe),A.aHn("Buyer",B.Oc),A.aHn("Logistics",B.Od),A.aHn("Warehouse",B.Of)],q),!1,"Dashboard"),A.FV(A.c([A.FV(A.c([A.ya("Form","Personal KYC form",B.a5P),A.ya(r,"Personal KYC status",B.a4h)],q),!1,"KYC"),A.FV(A.c([A.ya(r,"KYB status",B.a5N),A.ya("Form","KYB form",B.a43),A.ya("role-selection","KYB role selection",B.a5H)],q),!1,"KYB"),A.FV(A.c([A.ya("Selection","Company selection",B.a47),A.ya(r,"Company status",B.a5I)],q),!1,"Company")],q),!1,"Onboarding")],q)},
 aHn(a,b){return A.wS(!0,a,A.c([A.FY(new A.aHq(b),a)],t.Jw))},
 ya(a,b,c){return A.wS(!0,a,A.c([A.FY(new A.aHS(c,b),a)],t.Jw))},
 aIF:function aIF(){},
